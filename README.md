@@ -3,8 +3,6 @@
 ## 🔍 Overview
 This is a full-scale, modular machine learning system for detecting credit card fraud. It uses PySpark preprocessing, advanced sampling strategies to combat class imbalance, XGBoost for classification, MLflow with Optuna for model tracking and tuning, and a complete AWS deployment pipeline using SageMaker, S3, and Glue.
 
-All folders and scripts have been renamed and restructured for uniqueness and clarity.
-
 ---
 
 ## 📁 Directory Structure

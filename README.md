@@ -132,11 +132,6 @@ python inference_module/main.py
 
 ---
 
----
-
-
----
-
 ## 📦 Required Dependencies
 
 Install all project dependencies using:
